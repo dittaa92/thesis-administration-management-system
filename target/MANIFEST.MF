@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0
+Built-By: Dittu
+Implementation-Vendor-Id: hu.pte.ttk.tams
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_31
+Main-Class: ${start-class}
+
